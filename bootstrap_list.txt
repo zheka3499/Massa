@@ -32,7 +32,7 @@ bootstrap_list = [
 	["185.225.232.227:31245", "7iJU5UrVWBZGZcdtkHUWrBgg5BGjnrRhFXmAVELeSTuDpPQSvu"],
 	["194.233.71.97:31245", "8gbmLx3EYY5oEXd7P3xswLCwWstC5J8BHurVn6x2hNEuB6xghM"],
 	["49.234.7.254:31245", "6xy62H4rPy7V8wcQ9L2ssyAdBgmbcdszb99jVxCvx9D9U4Dimp"],
-	["65.108.46.114:31245", "8Nj31NW5trBb1L8qofmMZXMCCQELDGNfhcViHEY6QU7t17xkjG"],
+	["5.18.198.83:31245", "5kBaWnmcapLwQvRweEuPGe65SCrTTstH8MUZWw2tbnut1DfNqr"],
 	["89.108.71.233:31245", "5rDHwG5hnaneMc1j3mWitzf7bXTwDThFkKeHbLJchQnaCmN5yS"],
 	["109.107.185.100:31245", "5fX8a8XxiaWzU7927Xn7f3ArKx146XAmjYUcqeqzSok217vrRd"],
 	["176.57.184.238:31245", "8KNgJFdgfVqiCt5vuK9dxm5iVa23aQmQyPuSqrJvmqkUSv8tNa"],
@@ -46,5 +46,5 @@ bootstrap_list = [
 	["94.103.82.186:31245", "6wN1nskA4U8NfJ3oSSvLV9BWp5AxFtadqV1NTfRTgeU63sayi1"],
 	["95.216.252.32:31245", "7QzEVByNjepZXoALcVvce2nR8tgozhwSw3DrbKvXbLjPk5osFC"],
 	["167.172.106.91:31245", "8FksMrNnPhamk9Wu5jdBxwgxwQGu3hxm8FAHkM4Lsgdr2X8e9q"],
-
+	["5.18.198.83:31245", "5kBaWnmcapLwQvRweEuPGe65SCrTTstH8MUZWw2tbnut1DfNqr"],
 ]
